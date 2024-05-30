@@ -6,6 +6,24 @@
 		"clients-section"
 	],
 	"settings": {
+		"blocks": {
+			"core/cover": {
+				"color": {
+					"palette": [
+						{
+							"color": "#ea580c",
+							"name": "Base Naman",
+							"slug": "base-naman"
+						},
+						{
+							"color": "#fff7ed",
+							"name": "Contrast Naman",
+							"slug": "contrast-naman"
+						}
+					]
+				}
+			}
+		},
 		"appearanceTools": true,
 		"color": {
 			"defaultDuotone": false,
@@ -101,6 +119,16 @@
 				}
 			],
 			"palette": [
+				{
+					"color": "#0284c7",
+					"name": "Base Naman",
+					"slug": "base-naman"
+				},
+				{
+					"color": "#ffffff",
+					"name": "Contrast Naman",
+					"slug": "contrast-naman"
+				},
 				{
 					"color": "#f9f9f9",
 					"name": "Base",
