@@ -233,6 +233,11 @@
 			"fluid": true,
 			"fontFamilies": [
 				{
+					"name": "System Default",
+					"slug": "system-default",
+					"fontFamily": "system-ui, sans-serif"
+				},
+				{
 					"fontFace": [
 						{
 							"fontFamily": "Inter",
